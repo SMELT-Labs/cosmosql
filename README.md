@@ -1,4 +1,4 @@
-# COSMOSQL
+# COSMOSQL - Alpha
 
 A portable and universal query language. Write your queries once. Run everywhere.
 
